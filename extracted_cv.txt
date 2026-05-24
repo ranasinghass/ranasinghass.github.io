@@ -1,0 +1,136 @@
+
+--- PAGE 1 ---
+
+ 
+Suraj Sampath Ranasingha 
+Phone: +94 767216366 
+Email: surajsampath25@gmail.com 
+Objective 
+ 
+I aspire to pursue a Ph.D. in Artificial Intelligence, focusing on developing innovative AI 
+technologies and applying them to real -world challenges. I have a keen interest in machine 
+learning, neural networks, and recommendation systems, and I am dedicated to advancing research 
+that contributes to intelligent and adaptive solutions. 
+Education 
+ 
+Master of Science in Artificial Intelligence (OGPA 3.57)    2020 - 2023 
+University of Moratuwa, Sri Lanka      
+Bachelor of Science in Electrical and Information Engineering (OGPA 3.60)  2014 - 2019 
+University of Ruhuna, Sri Lanka      
+Research And Work Experience 
+ 
+LLM-Based RTL Syntax Fixer 
+ Synopsys Lanka (Pvt) Ltd. 
+Completion: 2025 
+• Designed architecture to  fix the syntax errors in AI -generated RTL codes and rewrite 
+workflow for seamless, context-aware adjustment. 
+• Implement a React framework integrated with a RAG system that uses function -calling 
+capabilities to identify syntax errors and suggest possible fixes.  (Langchain, Llamaindex, 
+CrewAI). 
+Personalized Mood-Based Song Recommendation System Using a Hybrid Approach 
+University of Moratuwa 
+Completion: 2023 
+• Developed a deep learning model for emotion detection based on facial expressions using 
+OpenCV, TensorFlow, and Keras. 
+• Implemented song emotion identification using Thayer’s two-dimensional model. 
+• Developed a song recommendation system combining collaborat ive and content -based 
+filtering. 
+Artificial Intelligence Humanoid Robot Face 
+University of Ruhuna 
+Completion: 2018 
+
+--- PAGE 2 ---
+
+ 
+• Designed and developed a deep learning model for facial recognition and human emotion 
+detection. 
+• Implemented text-to-speech and speech-to-text conversion using the gTTS API. 
+GUI Walker Setup for GUI Automation 
+Synopsys Lanka (Pvt) Ltd. 
+Completion: 2024 
+• Designed architecture to create Selenium test cases using a simple YAML config file. 
+• Created a web application with Google Blockly to make configuration writing easier. 
+GUI Performance Testing Framework 
+Synopsys Lanka (Pvt) Ltd. - Completion: 2025 
+Aim of this pr oject is to develop a fully automated, end -to-end framework for validating and 
+monitoring V365 GUI performance using data -drive metrics , ensuring early detection of 
+performance issues and reliable regression tracking.  
+• Use selenium script to simulate user actions and run consistent GUI test scenarios. 
+• Capture Web Vitals and browser metrics (via python wrapper and firefox tools) to measure 
+GUI performance. 
+• Automated VMS setup, MySQL configuration, and large DB restore using script for stable 
+test environment. 
+Smart Bucketing for VMS 
+Synopsys Lanka (Pvt) Ltd. 
+Ongoing 
+• Developed an ML model using a linear SVM for failure bucketing and log analysis. 
+Publications 
+ 
+S. S. Ranasingha and T. Silva , "Personalized Mood -Based Song Recommendation System 
+Using a Hybrid Approach ," in 2023 Moratuwa Engineering Research Conference (MERCon), 
+Moratuwa, Sri Lanka: IEEE, Nov. 2023, pp. 66–71. doi: 10.1109/MERCon60487.2023.10355387. 
+Technical Skills 
+ 
+• Programming Languages: Python, Verilog 
+• AI and Machine Learning: Deep Learning, Computer Vision, TensorFlow, ML, LLM, 
+Multi-agent systems 
+• Tools: Docker, Selenium, Langchain, Llamaindex, CrewAI 
+• Other Skills: Statistics, Linux 
+
+--- PAGE 3 ---
+
+ 
+Academic Skills 
+ 
+• Research and Analysis : Proficient in conducting AI research, data analysis, and 
+interpreting results. 
+• Problem Solving: Expertise in troubleshooting complex issues and developing innovative 
+solutions. 
+• Team Collaboration : Demonstrated the ability to work effectively in interdisciplinary 
+teams and collaborate on research projects. 
+Professional Experience
+ 
+Application Engineer (Staff) 
+Synopsys Lanka (Pvt) Ltd. 
+Nov 2019 - Present 
+• Troubleshoot issues and support production with implementation and debugging concerns. 
+• Collaborated with the development team to meet release deadlines. 
+• Developed Python-Selenium-based UI test automation. 
+Service Delivery Engineer 
+Wavenet International (Pvt) Ltd. 
+Feb 2019 - Nov 2019 
+• Conducted troubleshooting and root cause analysis to trace faults. 
+• Oversaw maintenance staff, subcontractors, and vendors. 
+• Managed system monitoring and automation. 
+Student Instructor 
+Faculty of Engineering, University of Ruhuna. 
+June 2018 - Dec 2018 
+• Guided students through experiments, ensuring adherence to safety protocols. 
+• Provided technical support and clarifications on theoretical concepts. 
+• Assessed students' performance and provided feedback. 
+• Managed laboratory equipment and materials. 
+Memberships 
+ 
+• Associate Member, Institution of Engineers Sri Lanka (IESL), AM-24966 | 2019 - 
+Present 
+• Student Member, Institution of Engineers Sri Lanka (IESL), S-196445 | 2015 – 2019 
+• Student Member, Institution of Electrical and Electronics Engineers (IEEE) | 2016 - 
+2017 
+
+--- PAGE 4 ---
+
+ 
+References 
+ 
+Dr. Thushari Silva 
+Senior Lecturer - Grade I 
+Department of Computational Mathematics 
+Faculty of Information Technology, University of Moratuwa, Sri Lanka 
+Phone: +94 768784572 
+Email: thusharip@uom.lk 
+Mr. Eranda Jayatunga 
+Senior Lecture 
+Department of Electrical and Information Engineering 
+Faculty of Engineering, University of Ruhuna, Sri Lanka 
+Phone: +94 718359262 
+Email: eranda@eie.ruh.ac.lk, eranda107@yahoo.com 
